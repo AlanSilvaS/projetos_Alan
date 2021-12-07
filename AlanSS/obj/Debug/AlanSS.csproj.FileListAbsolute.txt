@@ -1,0 +1,15 @@
+D:\Visual AlanSS\AlanSS\AlanSS\bin\Debug\AlanSS.exe.config
+D:\Visual AlanSS\AlanSS\AlanSS\bin\Debug\AlanSS.exe
+D:\Visual AlanSS\AlanSS\AlanSS\bin\Debug\AlanSS.pdb
+D:\Visual AlanSS\AlanSS\AlanSS\obj\Debug\AlanSS.csprojAssemblyReference.cache
+D:\Visual AlanSS\AlanSS\AlanSS\obj\Debug\AlanSS.Properties.Resources.resources
+D:\Visual AlanSS\AlanSS\AlanSS\obj\Debug\AlanSS.csproj.GenerateResource.cache
+D:\Visual AlanSS\AlanSS\AlanSS\obj\Debug\AlanSS.csproj.CoreCompileInputs.cache
+D:\Visual AlanSS\AlanSS\AlanSS\obj\Debug\AlanSS.exe
+D:\Visual AlanSS\AlanSS\AlanSS\obj\Debug\AlanSS.pdb
+D:\Visual AlanSS\AlanSS\AlanSS\obj\Debug\AlanSS.Formprincipal.resources
+D:\Visual AlanSS\AlanSS\AlanSS\obj\Debug\AlanSS.formlogin.resources
+D:\Visual AlanSS\AlanSS\AlanSS\obj\Debug\AlanSS.telafornecedor.resources
+D:\Visual AlanSS\AlanSS\AlanSS\obj\Debug\AlanSS.telaprodutos.resources
+D:\Visual AlanSS\AlanSS\AlanSS\obj\Debug\AlanSS.formnovoproduto.resources
+D:\Visual AlanSS\AlanSS\AlanSS\obj\Debug\AlanSS.pesquisaproduto.resources
